@@ -1,5 +1,9 @@
-## Hi there 👋
-
+# Barnona Das
+## Summary📝
+Passionate **EC Engineering student** from **Kolkata, India**. I like to learn different technologies so that I can get ready to take on duties in the current industry. I've worked on several mini college projects and am familiar with **Arduino IDE, Android Studio, Anaconda Navigator, VS Code, Thonny** and **Figma.**
+## Education🏫
+* **B.Tech** in **Electronics and Communication Engineering** from **Future Institute of Engineering and Management**
+* **Higher Secondary** and **Secondary** from **Jodhpur Park Girls' High School**
 <!--
 **Barnona/Barnona** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
