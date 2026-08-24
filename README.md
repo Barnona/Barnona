@@ -9,6 +9,6 @@ Passionate **EC Engineering student** from **Kolkata, India**. I like to learn d
 | --- | --- |
 | Languages | C, C++, Python, Dart |
 | Dev Tools | Arduino IDE, VS Code, Android Studio, Git/Github, Google Cloud, Google Colab, Anaconda Navigator, Flutter |
-| Libraries | Pandas, Sklearn, Keras, Tensorflow |
+| Libraries | Pandas, scikit-learn, Keras, TensorFlow |
 | Hardware | Arduino UNO, ESP32 |
 | Designing | Figma, Canva |
